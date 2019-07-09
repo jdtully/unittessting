@@ -16,7 +16,7 @@ if (
     ]
   }) !== 60
 ) {
-  throw new Error("error2");
+  throw new Error("trying error2");
 }
 
 function orderTotal(order) {
